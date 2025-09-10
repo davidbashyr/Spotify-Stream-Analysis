@@ -20,6 +20,8 @@ This repository contains a **complete Python workflow** for cleaning, transformi
 - Converted string numbers with commas to numeric types.  
 - Converted `release_date` to datetime.  
 - Renamed columns to **Power BI–friendly format** (lowercase, underscores, no spaces or special characters).
+
+
 ![Removing unwanted cokumns](images/Screenshot 2025-09-10 122746.png)
 ![Removing unwanted cokumns](images/Screenshot 2025-09-10 122805.png)
 ![Removing unwanted cokumns](images/Screenshot 2025-09-10 122846.png)
@@ -36,6 +38,8 @@ This repository contains a **complete Python workflow** for cleaning, transformi
   - Total streams per artist  
   - Each track’s share of the artist’s total streams  
 - **Explicit vs. Clean Tracks:** Average streams comparison
+
+
 ![Removing unwanted cokumns](images/Screenshot 2025-09-10 123039.png)
 ![Removing unwanted cokumns](images/Screenshot 2025-09-10 123103.png)
 ![Removing unwanted cokumns](images/Screenshot 2025-09-10 123126.png)
@@ -43,8 +47,12 @@ This repository contains a **complete Python workflow** for cleaning, transformi
 ### **4. Export & Integration**
 - Saved cleaned, feature-rich dataset as CSV for **direct use in Power BI**.  
 - Downloadable from Google Colab with a single command.
+
+
+
 ![Removing unwanted cokumns](images/Screenshot 2025-09-10 122336.png)
 ![Removing unwanted cokumns](images/Screenshot 2025-09-10 122406.png)
+
 ### **5. Best Practices & Showcase**
 - Demonstrates **data cleaning, transformation, and feature engineering skills** in Python.  
 - Ready for **LinkedIn portfolio**, highlighting reproducibility and Power BI integration.
