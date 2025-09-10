@@ -22,9 +22,9 @@ This repository contains a **complete Python workflow** for cleaning, transformi
 - Renamed columns to **Power BI–friendly format** (lowercase, underscores, no spaces or special characters).
 
 
-![Removing unwanted cokumns](images/Screenshot%2025-09-10%122746.png)
-![Removing unwanted cokumns](images/Screenshot%2025-09-10%122805.png)
-![Removing unwanted cokumns](images/Screenshot%2025-09-10%122846.png)
+![Removing unwanted cokumns](https://github.com/davidbashyr/Spotify-Stream-Analysis/blob/9766b06917d8dbacc8aca4a345a3a8f1eba73eda/images/Screenshot%2025-09-10%122746.png)
+![Removing unwanted cokumns](https://github.com/davidbashyr/Spotify-Stream-Analysis/blob/9766b06917d8dbacc8aca4a345a3a8f1eba73eda/images/Screenshot%2025-09-10%122805.png)
+![Removing unwanted cokumns](https://github.com/davidbashyr/Spotify-Stream-Analysis/blob/9766b06917d8dbacc8aca4a345a3a8f1eba73eda/images/Screenshot%2025-09-10%122846.png)
 
 ### **3. Feature Engineering & Insights**
 - **Streams per Day:** Track streaming velocity relative to release date (up to end of 2024).  
@@ -40,9 +40,9 @@ This repository contains a **complete Python workflow** for cleaning, transformi
 - **Explicit vs. Clean Tracks:** Average streams comparison
 
 
-![Removing unwanted cokumns](images/Screenshot%2025-09-10%123039.png)
-![Removing unwanted cokumns](images/Screenshot%2025-09-10%123103.png)
-![Removing unwanted cokumns](images/Screenshot%2025-09-10%123126.png)
+![Removing unwanted cokumns](https://github.com/davidbashyr/Spotify-Stream-Analysis/blob/9766b06917d8dbacc8aca4a345a3a8f1eba73eda/images/Screenshot%2025-09-10%123039.png)
+![Removing unwanted cokumns](https://github.com/davidbashyr/Spotify-Stream-Analysis/blob/9766b06917d8dbacc8aca4a345a3a8f1eba73eda/images/Screenshot%2025-09-10%123103.png)
+![Removing unwanted cokumns](https://github.com/davidbashyr/Spotify-Stream-Analysis/blob/9766b06917d8dbacc8aca4a345a3a8f1eba73eda/images/Screenshot%2025-09-10%123126.png)
 
 ### **4. Export & Integration**
 - Saved cleaned, feature-rich dataset as CSV for **direct use in Power BI**.  
@@ -50,8 +50,8 @@ This repository contains a **complete Python workflow** for cleaning, transformi
 
 
 
-![Removing unwanted cokumns](images/Screenshot%2025-09-10%122336.png)
-![Removing unwanted cokumns](images/Screenshot%2025-09-10%122406.png)
+![Removing unwanted cokumns](https://github.com/davidbashyr/Spotify-Stream-Analysis/blob/9766b06917d8dbacc8aca4a345a3a8f1eba73eda/images/Screenshot%2025-09-10%122336.png)
+![Removing unwanted cokumns](https://github.com/davidbashyr/Spotify-Stream-Analysis/blob/9766b06917d8dbacc8aca4a345a3a8f1eba73eda/images/Screenshot%2025-09-10%122406.png)
 
 ### **5. Best Practices & Showcase**
 - Demonstrates **data cleaning, transformation, and feature engineering skills** in Python.  
